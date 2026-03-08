@@ -1,3 +1,6 @@
+**SCT213-c002-0072/2023**
+**GERALD AYUGI**
+
 **Project Description**
 
 The goal of this project is to classify chemical compounds as Toxic or NonToxic. Predicting toxicity is a critical step in drug discovery and environmental safety. 
